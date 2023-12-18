@@ -5,3 +5,4 @@ class Home:
         except ValueError:
             raise ValueError("Аргумент может быть только целым числом")
 
+
