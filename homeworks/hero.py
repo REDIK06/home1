@@ -21,7 +21,7 @@ class SuperHero:
         return len(self.catchphrase)
 
 
-hero = SuperHero("Кактус",
+hero = SuperHero("Кактус"
                  "Котлетка",
                  "Бионавигация",
                  100,
